@@ -1,0 +1,2 @@
+# Plan5Day
+A 5 day planner that opens to the current day and displays 5 days worth of plan-able activities. Time blocks are presented and color coded as to whether they are current, past, or present. Clicking on any time block allows for creation of an event on the planner, and whatever is input becomes saved for that time period on the calendar. Refreshing the page, or leaving and coming back, does not effect the saving, and it persists.
